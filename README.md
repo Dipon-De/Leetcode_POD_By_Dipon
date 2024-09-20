@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0010-regular-expression-matching) |
+| [0070-climbing-stairs](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0241-different-ways-to-add-parentheses) |
 ## Recursion
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0539-minimum-time-difference) |
 ## Sorting
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0241-different-ways-to-add-parentheses) |
 ## Rolling Hash
 |  |
