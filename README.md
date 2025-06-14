@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0241-different-ways-to-add-parentheses) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0020-valid-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1197-parsing-a-boolean-expression) |
