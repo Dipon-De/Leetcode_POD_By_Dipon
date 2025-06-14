@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0539-minimum-time-difference) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0088-merge-sorted-array) |
 | [1923-sentence-similarity-iii](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
