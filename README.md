@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Math
 |  |
 | ------- |
