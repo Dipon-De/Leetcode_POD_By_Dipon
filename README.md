@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0670-maximum-swap) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 ## Sorting
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1304-longest-happy-string) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/2616-maximal-score-after-applying-k-operations) |
