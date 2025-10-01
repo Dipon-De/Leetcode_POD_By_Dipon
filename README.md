@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0670-maximum-swap) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1642-water-bottles](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1642-water-bottles) |
 ## Sorting
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
