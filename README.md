@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1923-sentence-similarity-iii](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1923-sentence-similarity-iii) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0670-maximum-swap) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1642-water-bottles](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1642-water-bottles) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Sorting
 |  |
 | ------- |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Greedy
 |  |
@@ -243,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Number Theory
+|  |
+| ------- |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 <!---LeetCode Topics End-->
