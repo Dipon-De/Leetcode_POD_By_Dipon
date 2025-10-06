@@ -5,8 +5,8 @@ class Solution {
             digits[pos]=0;
             pos--;
         }
-        int[] res = new int[digits.length+1];
         if(pos==0 && digits[pos]==9){
+            int[] res = new int[digits.length+1];
             Arrays.fill(res,0);
             res[0]=1;
             return res;
