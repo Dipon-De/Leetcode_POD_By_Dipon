@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0539-minimum-time-difference) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0069-sqrtx) |
 | [0729-my-calendar-i](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0731-my-calendar-ii) |
 ## Design
