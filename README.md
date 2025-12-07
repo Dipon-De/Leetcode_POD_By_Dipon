@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0241-different-ways-to-add-parentheses) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0067-add-binary) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Prefix Sum
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0241-different-ways-to-add-parentheses) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0067-add-binary) |
 | [1642-water-bottles](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/2800-minimum-string-length-after-removing-substrings) |
