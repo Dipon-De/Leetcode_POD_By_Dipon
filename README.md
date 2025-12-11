@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0179-largest-number) |
+| [0485-max-consecutive-ones](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0485-max-consecutive-ones) |
 | [0539-minimum-time-difference](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0729-my-calendar-i) |
