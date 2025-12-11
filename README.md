@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0859-design-circular-deque) |
 | [1002-maximum-width-ramp](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1256-rank-transform-of-an-array) |
+| [1470-shuffle-the-array](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1470-shuffle-the-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1923-sentence-similarity-iii](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1923-sentence-similarity-iii) |
