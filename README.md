@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1923-sentence-similarity-iii](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1923-sentence-similarity-iii) |
+| [1929-concatenation-of-array](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1929-concatenation-of-array) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0067-add-binary) |
 | [1642-water-bottles](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1929-concatenation-of-array](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1929-concatenation-of-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
