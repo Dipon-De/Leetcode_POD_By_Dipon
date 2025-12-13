@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0645-set-mismatch) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1256-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0859-design-circular-deque) |
 | [1002-maximum-width-ramp](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1256-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1470-shuffle-the-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0645-set-mismatch) |
 | [1256-rank-transform-of-an-array](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1256-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Counting
@@ -271,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
