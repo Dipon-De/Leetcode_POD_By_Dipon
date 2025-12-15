@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1256-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1470-shuffle-the-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1197-parsing-a-boolean-expression) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1441-build-an-array-with-stack-operations) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0067-add-binary) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1441-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1929-concatenation-of-array](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1929-concatenation-of-array) |
