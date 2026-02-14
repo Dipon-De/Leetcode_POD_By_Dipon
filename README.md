@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1923-sentence-similarity-iii](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1923-sentence-similarity-iii) |
 | [1929-concatenation-of-array](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1929-concatenation-of-array) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1304-longest-happy-string) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/2616-maximal-score-after-applying-k-operations) |
