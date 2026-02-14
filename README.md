@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0202-happy-number) |
 | [0432-all-oone-data-structure](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0432-all-oone-data-structure) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0202-happy-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0670-maximum-swap) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/0202-happy-number) |
 | [1923-sentence-similarity-iii](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Dipon-De/Leetcode_POD_By_Dipon/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
