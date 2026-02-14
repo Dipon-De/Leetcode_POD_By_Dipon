@@ -1,8 +1,10 @@
+import java.util.*;
 class Solution {
+    Set<Integer> seen = new HashSet<>();
     public boolean isHappy(int n) {
-        if(n==1 || n==7) return true;
-        if(n<=9) return false;
-
+        if(n==1) return true;
+        if(n<=0 || seen.contains(n)) return false;
+        seen.add(n);
         int num = n;
         int temp = 0;
 
